@@ -3,10 +3,10 @@
 1. Give me your introduction and tell me why do you want to join neogcamp? 
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choicei.
-My Sol:  https://csb-zucn3.netlify.app/
+My Sol: https://csb-zucn3.netlify.app/
 
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
-My sol:  https://csb-vwfpz.netlify.app/
+My sol: https://csb-vwfpz.netlify.app/
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 My sol:  https://rmdyz.csb.app/
@@ -37,17 +37,17 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 My sol:  https://csb-ixr9c.netlify.app/
 
 1. Show me your portfolio. Okay, I like the button you have made. Can you re create the button without looking at source code? You're free to Google though. 
-My sol:  https://github.com/Irfan-vit/my-portfolio
+My sol:  
 
 1. Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font?
 My sol:  
 
 1. Create two objects with name, age, and yuga as `Ram, 25, Treta. Krishna, 31, Dwapar`. 
 Write a function which takes two objects and return the person with more age.
-My sol:  https://csb-wmuvm.netlify.app/
+My sol:  
 
 1. Create two objects with name, power, and yuga as Ram, 2500, Treta. Krishna, 2325, Dwapar. Write a function which takes two objects and return the person with more `power`. 
-My sol:  https://csb-66jcd.netlify.app/
+My sol:  
 
 1. Create two objects with name, power, and yuga as Ram, 2500, Treta. Krishna, 2325, Dwapar. 
 Say if every character in name is worth 35 power points.
@@ -55,4 +55,4 @@ Write a function which takes two objects and return the person with more power b
 My sol:  
 
 1. Create a CLI app which would detect fake news. This app will take news as input and then source. If source is Facebook or whatsapp then it will output user saying, `"Don't believe things on FB and Whatsapp"`. Can you extend this to include telegram as well?
-My sol:  https://replit.com/@sagewizard/18cli
+My sol:  
